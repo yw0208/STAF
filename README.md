@@ -1,5 +1,5 @@
 # STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion
-
+[![report](https://img.shields.io/badge/ArXiv-Paper-red)](https://arxiv.org/abs/2401.01730)
 ## Getting Started 
 
 #### Installation & Clone the repo [Environment on Linux (Ubuntu 18.04 with python >= 3.7)]
