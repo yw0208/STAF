@@ -3,7 +3,9 @@
 [![report](https://img.shields.io/badge/Project-Page-blue)](https://yw0208.github.io/staf/)
 [![report](https://img.shields.io/badge/ArXiv-Paper-red)](https://arxiv.org/abs/2401.01730)
 
-<video src="docs/demo_video.mp4" width="100%" />
+<p float="center">
+  <img src="docs/demo_video.gif" width="100%" />
+</p>
 
 ## Getting Started 
 
