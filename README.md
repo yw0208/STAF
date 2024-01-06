@@ -1,5 +1,5 @@
 # STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion
-[![Open In Colab](https://colab.research.google.com/github/camenduru/STAF-colab/blob/main/STAF_colab.ipynb)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/STAF-colab/blob/main/STAF_colab.ipynb)
 [![report](https://img.shields.io/badge/Project-Page-blue)](https://yw0208.github.io/staf/)
 [![report](https://img.shields.io/badge/ArXiv-Paper-red)](https://arxiv.org/abs/2401.01730)
 
