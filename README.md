@@ -4,7 +4,7 @@
 [![report](https://img.shields.io/badge/ArXiv-Paper-red)](https://arxiv.org/abs/2401.01730)
 
 <p float="center">
-  <img src="docs/demo_video.gif" width="100%" />
+  <img src="docs/demo_video_staf_gif_2.gif" width="100%" />
 </p>
 
 ## Getting Started 
