@@ -313,7 +313,7 @@ def main(args):
 
     """ Save rendered video """
     vid_name = os.path.basename(video_file)
-    save_name = f'MPS-Net_{vid_name.replace(".mp4", "")}_output.mp4'
+    save_name = f'STAF_{vid_name.replace(".mp4", "")}_output.mp4'
     save_path = os.path.join(output_path, save_name)
 
     images_to_video(img_folder=output_img_folder, output_vid_file=save_path)
