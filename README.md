@@ -36,6 +36,11 @@ To do this you can just run:
 ```bash
 python demo.py --vid_file demo_video.mp4 --gpu 0
 ```
+
+## Training and Evaluation
+
+Please refer to [training issue](https://github.com/yw0208/STAF/issues/3#issuecomment-1974723748) and [evaluation issue](https://github.com/yw0208/STAF/issues/6#issuecomment-2049155601).
+
 ## Acknowledgments
 
 Part of the code is borrowed from the following projects, including [PyMAF](https://github.com/HongwenZhang/PyMAF), [MPS-Net](https://github.com/MPS-Net/MPS-Net_release). Many thanks to their contributions.
