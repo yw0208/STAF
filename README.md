@@ -46,5 +46,14 @@ Please refer to [training issue](https://github.com/yw0208/STAF/issues/3#issueco
 Part of the code is borrowed from the following projects, including [PyMAF](https://github.com/HongwenZhang/PyMAF), [MPS-Net](https://github.com/MPS-Net/MPS-Net_release). Many thanks to their contributions.
 Special thanks to [camenduru](https://github.com/camenduru/STAF-colab) for Colab Demo!
 
-
+## Citation
+If you find this repository useful, please consider citing our paper and lightning the star:
+```
+@article{yao2024staf,
+      title={STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion},
+      author={Yao, Wei and Zhang, Hongwen and Sun, Yunlian and Tang, Jinhui},
+      journal={arXiv preprint arXiv:2401.01730},
+      year={2024}
+}
+```
 
