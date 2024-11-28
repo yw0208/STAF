@@ -52,11 +52,11 @@ If you find this repository useful, please consider citing our paper and lightni
 @ARTICLE{yao2024staf,
   author={Yao, Wei and Zhang, Hongwen and Sun, Yunlian and Tang, Jinhui},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion}, 
+  title={STAF: 3D Human Mesh Recovery From Video With Spatio-Temporal Alignment Fusion}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={34},
+  number={11},
+  pages={10564-10577},
   keywords={Hidden Markov models;Three-dimensional displays;Feature extraction;Image reconstruction;Solid modeling;Biological system modeling;Coherence;3D human mesh recovery;temporal coherence;feature pyramid;attention model},
   doi={10.1109/TCSVT.2024.3410400}}
 ```
